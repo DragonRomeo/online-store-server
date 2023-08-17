@@ -38,7 +38,8 @@
         "category":"action",
         "image":"",
     },
-    {"id":5,
+    {
+        "id":5,
         "name":"Call of Duty",
         "brand":"Activision",
         "price":59.99,
